@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+}
+.slider {
+    border-radius: 5px;
+    background: #E0E0E0;
+    height: 15px;
+    margin: 5px 0;
+}
+.thumb {
+    width: 10px;
+    height: 25px;
+    border-radius: 3px;
+    position: relative;
+    left: 0;
+    top: -5px;
+    background: blue;
+    cursor: pointer;
+}
+.progress{
+    display: block;
+    color: blue;
+    margin: 0 0 10px;
+}
+.box {
+    margin: 50px;
+}
+
+.box1 {
+    width: 100px;
+}
+
+.box2 {
+    width: 300px;
+}
+
+.box3 {
+    width: 200px;
+}
